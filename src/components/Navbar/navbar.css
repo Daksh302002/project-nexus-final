@@ -1,0 +1,16 @@
+.collapse {
+
+    margin-left: 50vh;
+    font-size: larger;
+
+}
+
+nav {
+    background-color: rgba(128, 128, 128, 0.094);
+}
+
+nav a {
+    color: #000;
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+}
